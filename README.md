@@ -1,3 +1,1 @@
-# testDapp
-# CoAPexamples
 # CoAPexamples
